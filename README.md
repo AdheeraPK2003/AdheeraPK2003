@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Adheera 👋
 
-<!--
-**AdheeraPK2003/AdheeraPK2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MSc Computer Science (Data Analytics) Student
 
-Here are some ideas to get you started:
+📊 Passionate about Data Analytics and Data Visualization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently Learning
+- Power BI
+- SQL
+- Python for Data Analytics
+- Business Intelligence
+
+## Projects
+
+### 🤖 Source Detection
+A machine learning project focused on identifying spam messages.
+
+## Skills
+- Power BI
+- Data Visualization
+- Data Analysis
+- Microsoft Excel
+- Python (Learning)
+- SQL (Learning)
+
+## Goals for 2026
+- Build more Power BI projects
+- Strengthen SQL skills
+- Develop an analytics portfolio
+- Secure a Data Analyst role
+
+## Connect With Me
+💼 LinkedIn: linkedin.com/in/adheerapk/
+
