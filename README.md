@@ -17,7 +17,7 @@
 A machine learning project focused on identifying spam messages.
 
 
-🔗 Repository: https://github.com/AdheeraPK2003/Source-Detection
+🔗 Repository: https://github.com/AdheeraPK2003/source_detection
 
 ### Social Media Usage Dashboard
 
