@@ -13,7 +13,17 @@
 ## Projects
 
 ### 🤖 Source Detection
+
 A machine learning project focused on identifying spam messages.
+
+
+🔗 Repository: https://github.com/AdheeraPK2003/Source-Detection
+
+### Social Media Usage Dashboard
+
+Power BI dashboard analyzing social media usage patterns, platform preferences, user behavior, and addiction trends.
+
+🔗 Repository: https://github.com/AdheeraPK2003/Social-media-usage-dashboard
 
 ## Skills
 - Power BI
